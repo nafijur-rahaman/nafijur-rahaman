@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafijur Rahaman</h1>
-<h3 align="center">A Passionate Full-Stack Developer | Crafting Engaging User Interfaces and Robust Backends</h3>
+<h3 align="center">Full Stack Developer | Building Dynamic & Responsive Websites | Django, JavaScript, React, Node.js,PostgreSQL</h3>
 
 ---
 
