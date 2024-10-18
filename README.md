@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300.png?text=Your+Cover+Image+Here" alt="Cover Image" />
+  <img src="https://drive.google.com/file/d/1hOi_zHQhiuStExbfhHQ9XlWO3BppBVyb/view?usp=sharing" alt="Cover Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafijur Rahaman</h1>
