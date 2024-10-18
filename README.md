@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://via.placeholder.com/1000x300.png?text=Your+Cover+Image+Here" alt="Cover Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Nafijur Rahaman</h1>
 <h3 align="center">A Passionate Full-Stack Developer | Crafting Engaging User Interfaces and Robust Backends</h3>
-
-
-
-
 
 ---
 
