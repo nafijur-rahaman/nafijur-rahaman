@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nafijur-rahaman/nafijur-rahaman/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.jpg" alt="Cover Image" />
+  <img src="https://github.com/nafijur-rahaman/nafijur-rahaman/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png" alt="Cover Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafijur Rahaman</h1>
