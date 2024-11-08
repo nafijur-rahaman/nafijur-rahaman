@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nafijur Rahaman</h1>
-<h3 align="center">Full Stack Developer | Building Dynamic & Responsive Websites | Django, JavaScript, React, Node.js,PostgreSQL</h3>
-
+<!-- <h3 align="center">Full Stack Developer | Building Dynamic & Responsive Websites | Django, JavaScript, React, Node.js,PostgreSQL</h3> -->
+ a passionate **Full Stack Developer** with expertise in building dynamic and responsive web applications. I specialize in **Django**, **JavaScript**, and modern frameworks like **React** and **Node.js**. With a keen eye for detail, I enjoy crafting user-centric designs and functional backend solutions. Currently expanding my knowledge of **React** to push the limits of frontend interactivity.
 ---
 
 - 🔭 I’m currently working on [Donation Platform](https://github.com/nafijur-rahaman/Donation-platform-backend)
