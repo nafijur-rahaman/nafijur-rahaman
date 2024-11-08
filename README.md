@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Nafijur Rahaman</h1>
 <!-- <h3 align="center">Full Stack Developer | Building Dynamic & Responsive Websites | Django, JavaScript, React, Node.js,PostgreSQL</h3> -->
- a passionate **Full Stack Developer** with expertise in building dynamic and responsive web applications. I specialize in **Django**, **JavaScript**, and modern frameworks like **React** and **Node.js**. With a keen eye for detail, I enjoy crafting user-centric designs and functional backend solutions. Currently expanding my knowledge of **React** to push the limits of frontend interactivity.
----
+
+A passionate Full Stack Developer with expertise in building dynamic and responsive web applications. I specialize in Django, JavaScript, and modern frameworks like React and Node.js. With a keen eye for detail, I take pride in crafting user-centric designs and robust backend solutions. Currently, I am expanding my knowledge of React to enhance frontend interactivity and deliver exceptional user experiences.
+
 
 - 🔭 I’m currently working on [Donation Platform](https://github.com/nafijur-rahaman/Donation-platform-backend)
 - 🌱 I’m currently learning **React**
