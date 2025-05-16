@@ -9,7 +9,7 @@ A passionate Full Stack Developer with expertise in building dynamic and respons
 
 
 - 🔭 I’m currently working on [Donation Platform](https://github.com/nafijur-rahaman/Donation-platform-backend)
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Firebase**
 - 💬 Ask me about **Django, JavaScript**
 - 📫 How to reach me: **tanjidnafis@gmail.com**
 
