@@ -20,9 +20,13 @@
 
 ### 🧠 About Me
 
-Hey there, traveler of the web 👋  
-I'm **Nafijur Rahaman**, a developer who builds things that actually *work* (and look good doing it).  
-I code full stack—**from RESTful APIs to React UIs**—and I love turning logic into art.
+I’m a passionate **Full Stack Developer** with a strong foundation in programming and web development. I build **responsive, user-friendly web applications** and enjoy working on both front-end and back-end to create **seamless digital experiences**.
+
+🌐 **Journey:**  
+Enhancing my skills through **Phitron** and pursuing **CSE at BUBT**, gaining hands-on experience with modern technologies and sharpening problem-solving skills through programming contests.
+
+🏋 **Approach:**  
+I focus on writing **clean, efficient, scalable code** while collaborating with teams to deliver projects that prioritize the user experience.  
 
 ---
 
@@ -92,3 +96,11 @@ I code full stack—**from RESTful APIs to React UIs**—and I love turning logi
 
 ---
 
+## 🤝 Let’s Connect
+
+| Platform | Link |
+|----------|------|
+| Email    | [tanjidnafis@gmail.com](mailto:tanjidnafis@gmail.com) |
+| GitHub   | [nafijur-rahaman](https://github.com/nafijur-rahaman) |
+| LinkedIn | [nafijur-rahaman](https://www.linkedin.com/in/nafijur-rahaman/) |
+| WhatsApp | [+8801626681291](https://wa.me/8801626681291) |
