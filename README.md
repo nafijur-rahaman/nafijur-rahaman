@@ -3,53 +3,24 @@
   <img src="https://github.com/nafijur-rahaman/nafijur-rahaman/blob/main/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.png" alt="cover" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&lines=Coding+under+the+moonlight;Coffee+in+hand,+ideas+in+mind;Making+web+magic+happen" alt="Typing SVG" />
 </p>
 
 
-
-
-
-
-
-
----
-
-### 🧠 About Me
-
-I’m a passionate **Full Stack Developer** with a strong foundation in programming and web development. I build **responsive, user-friendly web applications** and enjoy working on both front-end and back-end to create **seamless digital experiences**.
-
-🌐 **Journey:**  
-Enhancing my skills through **Phitron** and pursuing **CSE at BUBT**, gaining hands-on experience with modern technologies and sharpening problem-solving skills through programming contests.
-
-🏋 **Approach:**  
-I focus on writing **clean, efficient, scalable code** while collaborating with teams to deliver projects that prioritize the user experience.  
-
----
-
-### 🕸 Connect With Me
-
 <p align="center">
-
-  
-  <a href="https://fb.com/nafis.nafialnafi.n" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" width="45" alt="Facebook"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/nafijur-rahaman" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:tanjidnafis@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Gmail"/>
-  </a>
+<a href="https://github.com/nafijur-rahaman/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=nafijur-rahaman"></a>
+<a href="https://github.com/nafijur-rahaman?tab=followers"><img src="https://img.shields.io/github/followers/nafijur-rahaman?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
 
----
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>ReactJS</strong>
+
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning and Robotics**
+
 
 ### ⚙️ Tech Stack
 
@@ -80,27 +51,49 @@ I focus on writing **clean, efficient, scalable code** while collaborating with 
 
 
 
-### 📊 GitHub Intel
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/6.gif" height="25px"/> My Github Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nafijur-rahaman&theme=radical&hide_border=true&background=0d1117&fire=00FFFF&ring=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafijur-rahaman&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafijur-rahaman&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Languages" />
-</p>
 
----
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafijur-rahaman&theme=gotham&hide_border=false" alt="GitHub Streak" />
+</div>
 
-## 🤝 Let’s Connect
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=nafijur-rahaman&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafijur-rahaman&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-| Platform | Link |
-|----------|------|
-| Email    | [tanjidnafis@gmail.com](mailto:tanjidnafis@gmail.com) |
-| GitHub   | [nafijur-rahaman](https://github.com/nafijur-rahaman) |
-| LinkedIn | [nafijur-rahaman](https://www.linkedin.com/in/nafijur-rahaman/) |
-| WhatsApp | [+8801626681291](https://wa.me/8801626681291) |
+
+
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/7.gif" height="25px"/> Achievement
+
+![](https://github-profile-trophy.vercel.app/?username=nafijur-rahaman&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/8.gif" height="25px"/> Connect with me:
+
+<div align="left">
+<a href="https://www.linkedin.com/in/nafijur-rahaman/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/nafis.nafialnafi.N" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/nafijur-rahaman" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+<a href="tanjidnafis@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+
+### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
