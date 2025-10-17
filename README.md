@@ -17,37 +17,31 @@
 
 ## <img src="https://github.com/aatansen/aatansen/blob/main/img/2.gif" height="25px"/> About Me
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>ReactJS</strong>
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m currently learning <strong>NextJS</strong>
 
-- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Android Development, Web Development, Machine Learning and Robotics**
+- <img src="https://github.com/aatansen/aatansen/blob/main/img/3.gif" height="25px"/> I’m interested in multiple sector, Like- **Web Development,Machine Learning and Ai Agents**
 
 
-### ⚙️ Tech Stack
+## <img src="https://github.com/aatansen/aatansen/blob/main/img/5.gif" height="25px"/> Skills & Experiance:
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java" title="Backend"/>
+<p>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/python.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/django.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/c.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/flask.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/sqlite.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/mysql.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/html.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/css.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/javascript.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/bootstrap.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/tailwind.png" width="150px"/>
+    <img src="https://github.com/mrshakil015/mrshakil015/blob/main/images/reactjs.png" width="150px"/>
+      
 </p>
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,js" title="Frontend"/>
-</p>
+<br/>
 
-<p align="center">
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" title="Databases"/>
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" title="Tools"/>
-</p>
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,c" title="Languages"/>
-</p>
 
 
 
